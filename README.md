@@ -56,6 +56,12 @@ Target variable: 'Label' , indicates current system state as one of 5 classes:
 - 2: Hot Blow
 - 3: Cold Object
 - 4: Humidifier
+
+## Socket Programming
+
+Python's 'socket' module used for data transfer between the Raspberry Pi (server) and the home computer (client). 
+After a connection is established, weather readings are sent from the server with the .send() function, and received 
+on the client-side with the .recv() function at every time interval (1 second).
   
 ## Model Building
 
