@@ -48,6 +48,14 @@ Description:
 
 <p align="center">
 <img src="https://github.com/AlexBandurin/Weather_Station/blob/master/plots.png"  width="100%" height="80%">
+
+Target variable: 'Label' , indicates current system state as one of 5 classes:
+
+0: Normal state
+1: Cold Blow
+2: Hot Blow
+3: Cold Object
+4: Humidifier
   
 ## Model Building
 
