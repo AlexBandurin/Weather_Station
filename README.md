@@ -18,7 +18,7 @@ Cold blow (cold wind on the sensors), and Hot Blow (hot wind on the sensors).
 - Wind Sensor Rev. C (by Modern Device): A thermal anemometer with an analog output. Used for wind speed and temperature measurements.
 
 <p align="center">
-<img src="https://github.com/AlexBandurin/Weather_Station/blob/master/Setup.JPEG"  width="100%" height="80%">
+<img src="https://github.com/AlexBandurin/Weather_Station/blob/master/Setup.PNG"  width="100%" height="80%">
   
 ## Data Collection and Feature Engineering
 To acquire the data, the system has been subjected to all the above conditions, with the sensor readings recorded. The time-series data was then manually labeled such that
