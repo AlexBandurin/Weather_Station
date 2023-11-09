@@ -31,9 +31,9 @@ of any disturbance to the system. This rate of change (slope) feature was calcul
 
 (Note: shown below is calculation for humidity, but the approach was used for windspeed and temperature also.)
 
-H: Current Humidity reading
-H: Humidity reading from X seconds ago. Note: X has been set to 4.
-HS: Humidity slope or rate of change
+- H: Current Humidity reading
+- H: Humidity reading from X seconds ago. Note: X has been set to 4.
+- HS: Humidity slope or rate of change
 
 HS = (H - H_old) / X
 or (from code):
