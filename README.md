@@ -1,5 +1,7 @@
 # Weather_Station
 
+Project Video: https://www.youtube.com/watch?v=NfBLCT1sdrc
+
 ## Project Overview
 Created an analytical platform for detecting various room conditions using a raspberry pi, weather sensors, and machine learning for multiclass classification.
 Output is plotted and the prediction is displayed in a Plotly Dash application in real-time.
